@@ -1,0 +1,7 @@
+ffmpeg -i /1/pop.mp4 -map 0 -codec copy -f segment -segment_time 0:20 output%03d.mp4
+
+ffmpeg -i *.mp4 output/thumb%04d.png -hide_banner
+
+py -3 pack_imagesv2.py 0/thumb*.png 0/output 15
+
+
