@@ -1,9 +1,9 @@
 
 
-INSTALL FFMPEG
+INSTALL FFMPEG, then
 SET ENVIROMENT PATH https://www.javatpoint.com/how-to-set-python-path (BUT SELECT FFMPEG)
 
-INSTALL PYTHON 3
+INSTALL PYTHON 3, then
 SET ENVIROMENT PATH https://www.javatpoint.com/how-to-set-python-path
 
 WE WILL USE S:\EXAMPLE FOR OUR DIRECTIORY. MAKE A WORK DIRECTORY LIKE MINE..
