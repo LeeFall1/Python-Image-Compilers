@@ -6,6 +6,8 @@ SET ENVIROMENT PATH https://www.javatpoint.com/how-to-set-python-path (BUT SELEC
 INSTALL PYTHON 3, then
 SET ENVIROMENT PATH https://www.javatpoint.com/how-to-set-python-path
 
+pip install pillow
+
 WE WILL USE S:\EXAMPLE FOR OUR DIRECTIORY. MAKE A WORK DIRECTORY LIKE MINE..
 
 S:\EXAMPLE\ffmpeg -i TEST.mp4 -map 0 -codec copy -f segment -segment_time 0:20 output%03d.mp4
