@@ -1,7 +1,7 @@
 
 
 INSTALL FFMPEG, then
-SET ENVIROMENT PATH https://www.javatpoint.com/how-to-set-python-path (BUT SELECT FFMPEG)
+SET ENVIROMENT PATH https://www.thewindowsclub.com/how-to-install-ffmpeg-on-windows-10
 
 INSTALL PYTHON 3, then
 SET ENVIROMENT PATH https://www.javatpoint.com/how-to-set-python-path
